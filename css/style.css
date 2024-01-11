@@ -1,0 +1,13 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.text-title{
+    padding-top: 250px;
+    text-align: center;
+    font-size: 80px;
+    color: red;
+    background: yellow;
+    height: 600px;
+}
